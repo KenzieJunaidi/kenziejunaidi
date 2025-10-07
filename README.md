@@ -1,18 +1,11 @@
 ## Hi there, I'm Kenzie! 👋
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
 
-I'm a passionate AI and data enthusiast. 
+I'm an AI and data enthusiast with a strong interest in artificial intelligence, machine learning, and data science. Here, you'll find code snippets and experiments as I explore these fields and build practical skills along the way.
 
-Here, you'll find code snippets and experiments related to my interests in artificial intelligence, machine learning, and data science. 
+Through my college studies, I'm diving into advanced AI concepts, algorithms, and data structures, while also working on projects to deepen my understanding. I'm continuously learning and experimenting with new tools and frameworks to grow within the data science ecosystem.
 
-As part of my college studies, I'm currently diving into advanced AI concepts, algorithms, and data structures. 
+Feel free to reach out if you're interested in collaborating or have something exciting to share.
 
-I'm continuously learning, experimenting, and building projects to deepen my understanding in these areas.
-
-I'm also exploring new tools and frameworks to expand my skills in the data science ecosystem.
-
-Feel free to reach out to me if you're interested in collaborating or if you have any exciting project ideas! 
-
-I’m always happy to connect.
-
+I'm always happy to connect!
